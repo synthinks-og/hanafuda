@@ -41,5 +41,3 @@ python3 main.py
 - Find Application and choose session storage
 - Select hana and copy your refreshToken
 - Edit token.txt paste your refresh token
-
-```
